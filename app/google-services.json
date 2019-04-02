@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98209048540",
+    "firebase_url": "https://lockmeout-4293d.firebaseio.com",
+    "project_id": "lockmeout-4293d",
+    "storage_bucket": "lockmeout-4293d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98209048540:android:29b35a4793f70651",
+        "android_client_info": {
+          "package_name": "lockmeout.nik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98209048540-ujjkqi4198djj4p4k05fhbmqm97q04e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lockmeout.nik",
+            "certificate_hash": "881977d2b700b92d05a290b4fde07c4c5040e944"
+          }
+        },
+        {
+          "client_id": "98209048540-ftrbhg43rh7g7kltfev2lbasrn50q8jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5spbDSLkDYXFhSUw1nIFYk2MssTw72U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98209048540-ftrbhg43rh7g7kltfev2lbasrn50q8jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
